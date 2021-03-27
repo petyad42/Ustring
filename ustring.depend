@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1616451438 source:c:\users\petyk\documents\c++\laborok\ustring\string5.cpp
+	<iostream>
+	<cstring>
+	"memtrace.h"
+	"string5.h"
+
+1616451438 c:\users\petyk\documents\c++\laborok\ustring\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+
+1616451438 c:\users\petyk\documents\c++\laborok\ustring\string5.h
+	<iostream>
+
+1616812906 source:c:\users\petyk\documents\c++\laborok\ustring\ustring.cpp
+	"ustring.h"
+	<iostream>
+	<cstring>
+
+1616814446 c:\users\petyk\documents\c++\laborok\ustring\ustring.h
+	"string5.h"
+
+1616809267 source:c:\users\petyk\documents\c++\laborok\ustring\ustring_test.cpp
+	<iostream>
+	<sstream>
+	"memtrace.h"
+	"ustring.h"
+	"gtest_lite.h"
+
+1616451438 c:\users\petyk\documents\c++\laborok\ustring\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<string>
+	<fstream>
+	"memtrace.h"
+
+1616812664 source:c:\users\petyk\documents\c++\laborok\ustring\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
